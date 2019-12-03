@@ -16,4 +16,4 @@ cjs_line.add_options('Line plot', 'x-value', 'y-value',display_legend=True, size
 cjs_line.render(['x1', 'x2'],'Line plot')
 ```
 
-
+![Image description](https://github.com/romatolmach/python_chart_js_plot/blob/master/screenshot.png)
