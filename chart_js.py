@@ -1,4 +1,4 @@
-# %%
+
 from IPython.display import display, HTML, IFrame
 from matplotlib import colors as mcolors
 import random
@@ -150,6 +150,3 @@ class cjs_plot:
     def __repr__(self):
         return self.options_export
 
-
-
-# %%
